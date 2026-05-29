@@ -1,5 +1,3 @@
-# euro-exchange-rate-analysis
-A data science exploration analyzing structural macroeconomic inflection points and political shocks across Euro exchange rates (1999–2025) using Pandas and Matplotlib.
 # Euro Exchange Rate Analysis: Macroeconomic Trends & Political Shocks 💶📉
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11mkPg7OuVQZiv5SWKpOsJpD7nFb4jJMo?usp=sharing)
